@@ -2,7 +2,6 @@ module.exports = {
   env: {
     es6: true
   },
-  plugins: ['prettier'],
   extends: 'eslint:recommended',
   globals: {
     Atomics: 'readonly',
