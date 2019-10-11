@@ -1,3 +1,3 @@
 import app from './appInit';
 
-app.listen(3333);
+app.listen(3000);
