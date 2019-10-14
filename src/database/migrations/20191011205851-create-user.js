@@ -21,10 +21,6 @@ module.exports = {
         type: Sequelize.STRING,
         allowNull: false
       },
-      provider: {
-        type: Sequelize.BOOLEAN,
-        allowNull: true
-      },
       created_at: {
         type: Sequelize.DATE,
         allowNull: false
